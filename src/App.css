@@ -1,0 +1,134 @@
+.Header{
+  height:100vh ;
+  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2))
+ ,url(https://www.shutterstock.com/shutterstock/photos/566212843/display_1500/stock-photo-coffee-background-with-space-for-text-566212843.jpg) ; 
+ background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+}
+
+.Header-container{
+  width:100% ;
+  display: flex;
+  justify-content: center;
+align-items: center;
+list-style:none ;
+}
+.Header-container ul{
+  display: inline-flex;
+  list-style:none ;
+  margin-left:40% ;
+
+}
+.Header-container li{
+  margin: 25px 20px ;
+  float: left;
+
+}
+.Header-container li a{
+  text-decoration: none;
+  list-style:none ;
+  color: white;
+  font-family:roboto ;
+  font-size: 18px;
+  margin-left: 30px; 
+
+}
+.logo{
+  letter-spacing: 2px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  margin-left: 40px;
+   padding: 0;
+}
+.heading{
+  margin: 180px 180px; 
+  color:white ;
+  letter-spacing: 10%; 
+ 
+}
+.heading h4{
+  margin-bottom: 10px;
+  font-size:20px ;
+  font-weight: 400;
+
+}
+.heading h3 {
+  margin-top: 30px;
+   font-size: 48px;
+   font-weight: 700;
+}
+.btn-1 {
+  padding:10px ;
+  width:150px ;
+  border: 1px solid ;
+  border-radius: 10px; 
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  background-color:#000;
+  color: #fff;
+ ;
+ }
+ .h-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+ }
+ .h-3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+ }
+ 
+ .profile-main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  
+}
+.profile-item{
+  margin:10px;
+  border:2px solid whitesmoke ;
+  padding: 30px 20px;
+  background-color: black;
+}
+.profile-item:hover{
+  background-color: burlywood;
+}
+.profile-item h2 {
+  color: #fff;
+}
+.profile-item h4 {
+  color: bisque;
+}
+.profile-item p{
+  color: #fff; 
+}
+.btn-1{
+  padding:10px ;
+  width: 140px; 
+  background-color:peru;
+  border:none ;
+}
+.row-2{
+ background-color: #000; 
+}
+.profile-container{
+  background-color: #000;
+}
+
+ 
+
+
+
