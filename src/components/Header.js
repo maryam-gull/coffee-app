@@ -22,7 +22,7 @@ const Header = () => {
               <a href="/">Products</a>
             </li>
             <li>
-              <a href="/">Review</a>
+              <a href="/">Reviews</a>
             </li>
             <li>
               <a href="/">Contact</a>
@@ -34,8 +34,8 @@ const Header = () => {
             FRESH COFFEE IN <br></br>THE MORNING{" "}
           </h1>
           <p>
-            lorem Ispum Dolor Sit Amet Consectur Adipisicing Elit Slit, <br />{" "}
-            Consectur?Et Veritatis Velit Nesciunt Odio
+            Fresh Coffee in early morning gives you a <br /> taste of freshness{" "}
+            <br /> Consectur?Et Veritatis Velit Nesciunt Odio
           </p>
 
           <button className="btn btn-1 ">Get It Now</button>
